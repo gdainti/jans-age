@@ -2,4 +2,4 @@
 tracking someone's age
 
 ## Demo
-http://gdainti.com/jan/
+https://gdainti.com/age-calculator/
